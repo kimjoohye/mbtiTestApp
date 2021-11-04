@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mbtiTestApp/static/css/main.a2bebd6d.chunk.css",
+    "main.js": "/mbtiTestApp/static/js/main.d548f8cf.chunk.js",
+    "main.js.map": "/mbtiTestApp/static/js/main.d548f8cf.chunk.js.map",
+    "runtime-main.js": "/mbtiTestApp/static/js/runtime-main.e0daa4db.js",
+    "runtime-main.js.map": "/mbtiTestApp/static/js/runtime-main.e0daa4db.js.map",
+    "static/js/2.32ede868.chunk.js": "/mbtiTestApp/static/js/2.32ede868.chunk.js",
+    "static/js/2.32ede868.chunk.js.map": "/mbtiTestApp/static/js/2.32ede868.chunk.js.map",
+    "index.html": "/mbtiTestApp/index.html",
+    "static/css/main.a2bebd6d.chunk.css.map": "/mbtiTestApp/static/css/main.a2bebd6d.chunk.css.map",
+    "static/js/2.32ede868.chunk.js.LICENSE.txt": "/mbtiTestApp/static/js/2.32ede868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0daa4db.js",
+    "static/js/2.32ede868.chunk.js",
+    "static/css/main.a2bebd6d.chunk.css",
+    "static/js/main.d548f8cf.chunk.js"
+  ]
+}
