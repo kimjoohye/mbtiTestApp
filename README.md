@@ -1,8 +1,6 @@
 # MBTI 테스트
 React로 만들어진 mbti 테스트 페이지입니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
